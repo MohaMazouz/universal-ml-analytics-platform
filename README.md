@@ -39,7 +39,7 @@ data-app/
 pip install -r requirements.txt
 ```
 
-## Entraînement du modèle (manuel)
+## Entraînement du modèle (pas necessaire vu que l'app est integré par train model)
 
 ```bash
 python train_model.py
