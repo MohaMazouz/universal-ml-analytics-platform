@@ -1,0 +1,17 @@
+body {
+  background-color: #f7fafd;
+}
+h1, h2, h3 {
+  color: #003366;
+}
+.reportview-container {
+  background: #f7fafd;
+}
+.sidebar .sidebar-content {
+  background: #e8f0fe;
+}
+.stButton>button {
+  background-color: #003366;
+  color: white;
+  border-radius: 0.3em;
+}
